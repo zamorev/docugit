@@ -16,6 +16,11 @@ Direct link (v0.1.1):
 - macOS 14 (Sonoma) or later
 - Git (Xcode Command Line Tools or Homebrew)
 
+## Release notes
+
+- [v0.1.1](https://github.com/zamorev/docugit/releases/tag/v0.1.1) — [full notes](releases/v0.1.1.md)
+- [Changelog](./CHANGELOG.md)
+
 ## Feedback
 
 Use [GitHub Issues](https://github.com/zamorev/docugit/issues) for bugs and feature requests.
