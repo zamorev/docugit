@@ -11,6 +11,22 @@ This repository publishes **macOS release downloads only** — application sourc
 Direct link (v0.1.1):  
 [Docugit-0.1.1.dmg](https://github.com/zamorev/docugit/releases/download/v0.1.1/Docugit-0.1.1.dmg)
 
+### Install from Terminal (Homebrew)
+
+Requires [Homebrew](https://brew.sh):
+
+```bash
+brew install --cask zamorev/tap/docugit
+```
+
+Without Homebrew, download and open the disk image:
+
+```bash
+curl -fL -o ~/Downloads/Docugit.dmg \
+  "https://github.com/zamorev/docugit/releases/download/v0.1.1/Docugit-0.1.1.dmg" \
+  && open ~/Downloads/Docugit.dmg
+```
+
 ### Requirements
 
 - macOS 14 (Sonoma) or later
